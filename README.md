@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  👋 Hi, I'm Ishita Shrivastava  
-📍 Nagpur, Maharashtra  
 📫 Email: ishita9764@gmail.com  
 
 ---
@@ -51,23 +50,6 @@ Excel | Power BI
 - Created 8+ responsive, interactive web projects
 - Focus on clean UI, accessibility, and smooth user experience  
 - Built with **HTML, CSS, JavaScript, React**
-
----
-
-💼 Internship Experience
-
-Web Developer Analyst – Bhandarkar Excellence of Research and Management Pvt. Ltd.
-- Implemented **SEO improvements** that enhanced site ranking  
-- Collaborated with team to debug & optimize website performance  
-- Managed code changes and final deployment using **Git/GitHub**
-
----
-
- 📈 What I'm Currently Doing  
-- 🔭 Working on full-stack & data-focused mini projects  
-- 🌱 Learning advanced Java + SQL + React  
-- 👯 Open to collaborating on **web development & data projects**  
-- 💬 Ask me about **Flask, Python, UI design, or debugging**  
 
 ---
 
