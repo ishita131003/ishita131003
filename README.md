@@ -20,22 +20,13 @@ Here are some ideas to get you started:
 
 ---
 
-🌱 About Me  
-I’m a passionate developer who loves building clean, user-friendly web applications and exploring data-driven solutions.  
-I enjoy learning new technologies, solving problems, and improving digital experiences through clean code and good design.
-
----
-
 💻 Tech Stack
 
 Languages
 C | C++ | Java | Python  
 
-Frontend
-HTML | CSS | JavaScript  
-
-Backend
-Flask  
+Web development
+HTML | CSS | JavaScript | Flask
 
 Tools
 Git | GitHub | VSCode | Jupyter Notebook  
