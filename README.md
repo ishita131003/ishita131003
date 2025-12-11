@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 👋 Hi, I'm Ishita Shrivastava  
+👋 Hi, I'm Ishita Shrivastava  
 📫 Email: ishita9764@gmail.com  
 
 ---
@@ -21,20 +21,6 @@ Here are some ideas to get you started:
 🌱 About Me  
 I’m a passionate developer who loves building clean, user-friendly web applications and exploring data-driven solutions.  
 I enjoy learning new technologies, solving problems, and improving digital experiences through clean code and good design.
-
----
-
-💻 Tech Stack
-
-Languages : C | C++ | Java | Python  
-
-Web development : HTML | CSS | JavaScript | Flask
-
-Tools : Git | GitHub | VSCode | Jupyter Notebook | Figma | Framer  
-
-Database : SQL  
-
-Data Visualising Tools : Excel | Power BI  
 
 ---
 
