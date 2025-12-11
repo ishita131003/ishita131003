@@ -53,11 +53,6 @@ Excel | Power BI
 
 ---
 
-## 🌟 Fun Fact  
-I love turning ideas into clean UI and functional apps ✨  
-
----
-
 ⭐ **Check out my projects here:**  
 🔗 GitHub: [github.com/ishita131003](https://github.com/ishita131003)  
 🔗 LinkedIn: [linkedin.com/in/ishita9764](https://linkedin.com/in/ishita9764)
