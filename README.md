@@ -19,37 +19,23 @@ Here are some ideas to get you started:
 
 ---
 
-💻 Tech Stack
-
-Languages
-C | C++ | Java | Python  
-
-Web development
-HTML | CSS | JavaScript | Flask
-
-Tools
-Git | GitHub | VSCode | Jupyter Notebook  
-Figma | Framer  
-
-Database
-SQL  
-
-Data Visualising Tools
-Excel | Power BI  
+🌱 About Me  
+I’m a passionate developer who loves building clean, user-friendly web applications and exploring data-driven solutions.  
+I enjoy learning new technologies, solving problems, and improving digital experiences through clean code and good design.
 
 ---
 
-🚀 Projects
+💻 Tech Stack
 
-📌 To-Do WebApp
-- Built using **HTML, CSS, Python, Flask**  
-- Features include task creation, update, and deletion  
-- Deployed on **Render**, designed for simplicity & usability
+Languages : C | C++ | Java | Python  
 
-📌 Frontend Projects
-- Created 8+ responsive, interactive web projects
-- Focus on clean UI, accessibility, and smooth user experience  
-- Built with **HTML, CSS, JavaScript, React**
+Web development : HTML | CSS | JavaScript | Flask
+
+Tools : Git | GitHub | VSCode | Jupyter Notebook | Figma | Framer  
+
+Database : SQL  
+
+Data Visualising Tools : Excel | Power BI  
 
 ---
 
